@@ -2,6 +2,7 @@
 # part5 - movie generator - png2movie.py
 #
 # v08 (c) 2014, 2015 by Andreas
+#
 
 """
 # start manually with 

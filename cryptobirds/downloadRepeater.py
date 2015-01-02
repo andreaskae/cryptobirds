@@ -1,7 +1,7 @@
 # CryptoBirds "A Birds Eye View of Crypto Currencies"
 # part4 - image downloader
-# v07
-# (c) 2014, 2015 by Andreas
+#
+# v08 (c) 2014, 2015 by Andreas
 #
 
 """
