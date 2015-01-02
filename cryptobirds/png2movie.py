@@ -1,7 +1,7 @@
 # CryptoBirds "A Birds Eye View of Crypto Currencies"
-# part5 - movie generator - png2movie.py
+# part 6 - movie generator - png2movie.py
 #
-# v08 (c) 2014, 2015 by Andreas
+# v09 (c) 2014, 2015 by Andreas
 #
 
 """
@@ -12,9 +12,13 @@ tail -f -n 15 ./png2movie.log
 # Ctrl-C to stop logfile viewing
 """
 
+VIDEOFILENAME = "video__%s_TO_%s__.mp4"
+printIdea = True
+
 import os, fnmatch
 from moviepy.editor import ImageSequenceClip
-# pip install moviepy
+# pip install moviepy   # https://pypi.python.org/pypi/moviepy
+
 # first call will take long because stuff is downloaded 
 
 from downloadRepeater import FILENAMETEMPLATE
@@ -28,7 +32,7 @@ def getFilenames(fromDirectory=".", filenamepattern = FILENAMEPATTERN, debug=Tru
     filenames.sort()
     if debug: print filenames
     
-    videofilename = "video__" + filenames[0] + "_TO_" + filenames[-1] + "__.mp4"
+    videofilename = VIDEOFILENAME % (filenames[0], filenames[-1])
     if debug: print videofilename 
     
     return filenames, videofilename  
@@ -39,7 +43,7 @@ def makeMovie(fromDirectory=".", filenamepattern = FILENAMEPATTERN,
       
     filenames, videofilename = getFilenames(fromDirectory, filenamepattern, debug)
     
-    if debug: print "generating movie, may take a while, patience!"    
+    if debug: print "generating movie, may take a while, patience!\n"    
     try:
         cl = ImageSequenceClip(filenames, fps=fps)
         cl.write_videofile(videofilename, **args)   
@@ -48,20 +52,21 @@ def makeMovie(fromDirectory=".", filenamepattern = FILENAMEPATTERN,
 
 
 def printIdea():
-    print
-    print "What about this:"
+    print "\nIdeas for the next steps:"
     print "Part 1: get the coinmarketcap data"
-    print "Part 2: store it into db for later analysis"
-    print "part 3: Generate PNG image, available on server 1"
-    print "part 4: download PNG (to machine 2), every 5 minutes"
-    print "part 5: make movie from all PNG in folder"
-    print "part 6: varieties: ... all PNG of the past 24 hours only; generate one every 1 (6) hours?"
-    print "part 7: youtube uploader, insert newest youtube URL into webpage on server 1"
-    print "part 8: Not to forget: donation button, or subscription service. Easy. "
-    print "parts 1,3,4,5 are ready!\n"
+    print "Part 2: store it into DB for later analysis"
+    print "part 3: generate PNG image"
+    print "part 4: available for self-service (on server 1)"
+    print "part 5: download PNG (to machine 2), every 5 minutes"
+    print "part 6: make movie from all PNGs in folder"
+    print "part 7: variation: ... all PNGs of the past 24 hours only;" 
+    print "                   ... automatically generate video every 4 hours?"
+    print "part 8: youtube uploader; newest youtube URL into www, on server 1"
+    print "part 9: Not to forget: donation button, subscription service. Easy."
+    print "parts 1,3,4,5,6 are ready!\n"
 
 if __name__ == "__main__":
-    printIdea()
-    makeMovie(fps=2, write_logfile=True)
-    printIdea()
+    if printIdea: printIdea()
+    makeMovie(fps=5, write_logfile=True)
+    if printIdea: printIdea()
     

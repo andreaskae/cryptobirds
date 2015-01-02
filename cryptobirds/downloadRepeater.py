@@ -1,7 +1,7 @@
 # CryptoBirds "A Birds Eye View of Crypto Currencies"
-# part4 - image downloader
+# part 5 - image downloader - downloadRepeater.py
 #
-# v08 (c) 2014, 2015 by Andreas
+# v09 (c) 2014, 2015 by Andreas
 #
 
 """
@@ -12,14 +12,15 @@ tail -f ./downloadRepeater.log
 # Ctrl-C to stop logfile viewing
 """
 
-import time, shutil
-import wget
-# pip install wget  # https://pypi.python.org/pypi/wget
-
+URLPNG = "http://104.131.30.126/current.png"
+PAUSEBETWEEN = 300
 FILENAMETEMPLATE = "AndersBrun_%s.png"
 
-def getEm(url = "http://104.131.30.126/current.png",
-          pauseBetween = 300, debug = True):
+import time, shutil
+import wget
+# pip install wget    # https://pypi.python.org/pypi/wget
+
+def getEm(url = URLPNG, pauseBetween = PAUSEBETWEEN, debug = True):
 
     if debug: print "Querying %s every %d seconds:" % (url, pauseBetween)
     
