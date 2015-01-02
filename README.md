@@ -27,6 +27,7 @@ Some examples for successful detection, and interpretations:
   * Or - if I subtract my realized profits from the expenses, then I got my remaining LXC for 612 Satoshi - but the last bittrex price is 3601.
   * My first mentioning of LXC was 21st of December: 
 https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=602428016530034
+  * Strong >200% price bursts 3 days later: https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=603668313072671
 
 
 Youtube Downloader:
