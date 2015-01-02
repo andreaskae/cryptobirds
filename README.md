@@ -1,7 +1,8 @@
 cryptobirds
 ===========
 
-A Birds Eye View of Crypto Currencies = coinmarketcap table --> to image --> to video
+## A Birds Eye View of Crypto Currencies 
+## = coinmarketcap table --> to image --> to video
 
 Self-service version of the plot, by Anders Brun: 
 * created every 5 minutes: http://bit.ly/1BfZmze 
