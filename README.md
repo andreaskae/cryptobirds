@@ -33,8 +33,10 @@ Youtube Downloader:
 
 Code at:
 * https://github.com/andreaskae/cryptobirds
-** downloadRepeater.py
-** png2movie.py
+  * downloadRepeater.py https://github.com/andreaskae/cryptobirds/blob/master/cryptobirds/downloadRepeater.py
+  * png2movie.py https://github.com/andreaskae/cryptobirds/blob/master/cryptobirds/png2movie.py
+  
+Please comment below the videos when your wetware pattern recognition system identifies some interesting signal; a coin behaving strangely, volume suddenly rising, strong left-right movements, color changes, suddenly appearing and disappearing, newcomers, etc. - then we can look into the time series, and the fundamentals of that coin. And perhaps make some money :-) . 
 
 (C) 2014, 2015 by Anders Brun, Andreas Ka
 
