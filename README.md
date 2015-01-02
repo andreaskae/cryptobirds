@@ -21,11 +21,11 @@ Videos published:
 * animGif http://bit.ly/1BeyOy6  (December 27th)
 * mp4 https://www.youtube.com/watch?v=-jfU_Z9nJYc (January 2nd)
 
-Some examples for successful interpretations:
+Some examples for successful detection, and interpretations:
 * PFC
-  * https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601171813322321&offset=0
-  * https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601177556655080&offset=0
-  * https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601530266619809&offset=0
+  * 50 BTC volume blink https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601171813322321
+  * 1184 BTC volume https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601530266619809
+  * ... and a few hours later, we could have doubled our money. https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=601531306619705
 
 Youtube Downloader:
 * userscript (greasemonkey/tampermonkey/violentmonkey/ninjakit) http://wiki.greasespot.net/Cross-browser_userscripting 
