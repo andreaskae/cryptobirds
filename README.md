@@ -42,7 +42,7 @@ Code at:
 
 
 Some ideas for the future
-* https://github.com/andreaskae/cryptobirds/blob/master/ideas-for-the-future.md
+* [ideas-for-the-future.md](ideas-for-the-future.md)
 
 
 Videos published:
