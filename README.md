@@ -41,6 +41,10 @@ Code at:
   * png2movie.py https://github.com/andreaskae/cryptobirds/blob/master/cryptobirds/png2movie.py
 
 
+Some ideas for the future
+* https://github.com/andreaskae/cryptobirds/blob/master/ideas-for-the-future.md
+
+
 Videos published:
 * animGif, first ever http://bit.ly/1ABl40a (December 16th)
 * animGif http://bit.ly/1zBwCkJ (December 18th)
