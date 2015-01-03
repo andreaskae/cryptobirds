@@ -1,7 +1,7 @@
 # CryptoBirds "A Birds Eye View of Crypto Currencies"
 # part 6 - movie generator - png2movie.py
 #
-# v09 (c) 2014, 2015 by Andreas
+# v10 (c) 2014, 2015 by Andreas
 #
 
 """
