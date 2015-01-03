@@ -39,7 +39,7 @@ def getEm(url = URLPNG, pauseBetween = PAUSEBETWEEN, debug = True):
             
         time.sleep(pauseBetween )
         
-    # N.B.: Will never stop, kill manually.
+    # N.B.: Will never stop, kill manually, with Ctrl-C.
     
 if __name__ == "__main__":
     getEm()
