@@ -18,3 +18,5 @@ calculate a (perhaps smoothed out)
   * Sorry for the technical explanation, do you see what I mean? That way, our fakevolumesuperprofitcoin PFC would have been suddenly labelled pitchblack, because it had so much action in that one time slice.
   * And all those boring nothing-new-happens-only-the-same-that-happened-yesterday coins ... would get slowly graying labels, and thus move to the background of perception. 
   * It would then make sense to draw them in the sequence of light gray to dark black, then the boring coins are overprinted by the radically changed markets.
+
+more ideas:
