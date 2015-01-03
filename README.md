@@ -35,10 +35,10 @@ Youtube Downloader:
 * savefrom downloader userscript http://savefrom.net/user.php?helper=userjs
 
 
-Code at:
+Code is at:
 * https://github.com/andreaskae/cryptobirds
-  * downloadRepeater.py https://github.com/andreaskae/cryptobirds/blob/master/cryptobirds/downloadRepeater.py
-  * png2movie.py https://github.com/andreaskae/cryptobirds/blob/master/cryptobirds/png2movie.py
+  * [downloadRepeater.py] (cryptobirds/downloadRepeater.py)
+  * [png2movie.py] (cryptobirds/png2movie.py)
 
 
 Some ideas for the future
