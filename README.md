@@ -1,13 +1,11 @@
 cryptobirds
 ===========
 
-## A Birds Eye View of Crypto Currencies 
-## = coinmarketcap table --> to image --> to video
+## A Birds Eye View of Crypto Currencies = coinmarketcap table --> to image --> to video
 
-When by Anders Brun provided a **self-service version of his coinmarketcap plots**, that are created every 5 minutes:  
-* http://bit.ly/1BfZmze 
+When by Anders Brun provided a **self-service version of his coinmarketcap plots**, that are created every 5 minutes:  http://bit.ly/1BfZmze 
 
-... and we had long discussions about the pictures & videos & interpretations 
+... and after we had had long discussions about the pictures & videos & interpretations 
 * in FB group "Cryptocurrency Collectors Club": https://www.facebook.com/groups/459085124197658/ 
 * The beginning, December 15th: https://www.facebook.com/photo.php?fbid=10152537991089562&set=gm.599645046808331
 * Continued on December 18th: https://www.facebook.com/groups/459085124197658/permalink/601164619989707/
@@ -27,13 +25,13 @@ When by Anders Brun provided a **self-service version of his coinmarketcap plots
 https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=602428016530034
   * Strong >200% price bursts 3 days later: https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=603668313072671
 
-... but there were only animGifs:
+... but there were still only animGifs, which cannot be rewound:
 * animGif, first ever http://bit.ly/1ABl40a (December 16th)
 * animGif http://bit.ly/1zBwCkJ (December 18th)
 * animGif http://bit.ly/13Q8eS3 (December 21st)
 * animGif http://bit.ly/1BeyOy6  (December 27th)
 
-... I decided to create my Python code here in this [github repository] (https://github.com/andreaskae/cryptobirds)
+... I decided to create my own Python code here in this [github repository] (https://github.com/andreaskae/cryptobirds)
   * [downloadRepeater.py] (cryptobirds/downloadRepeater.py)
   * [png2movie.py] (cryptobirds/png2movie.py)
   * to use the self-service plots at http://bit.ly/1BfZmze 
@@ -48,8 +46,8 @@ Only some of my many suggestions for Anders Brun, for the future:
 * [ideas-for-the-future.md](ideas-for-the-future.md)
 
 
-By now, Anders is creating the videos on the fly, every 1 hour, on his server.
-* http://bit.ly/1BfZmze  
+**By now, Anders is creating videos on the fly, every 1 hour:**
+* scroll down here: http://bit.ly/1BfZmze  
 
 *Please comment below the videos* whatever your wetware pattern recognition system identifies as some interesting signal; a coin behaving strangely, the volume (up-down) suddenly rising, strong left-right movements (usually due to price changes), color changes, suddenly appearing and disappearing coins, newcomers, etc. - Then we can look into the time series, and the fundamentals of that coin. **And perhaps make some money :-)** . 
 
