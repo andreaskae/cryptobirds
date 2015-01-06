@@ -19,4 +19,12 @@ calculate a (perhaps smoothed out)
   * And all those boring nothing-new-happens-only-the-same-that-happened-yesterday coins ... would get slowly graying labels, and thus move to the background of perception. 
   * It would then make sense to draw them in the sequence of light gray to dark black, then the boring coins are overprinted by the radically changed markets.
 
-more ideas:
+
+**Timeline Discussion** 
+
+What I found really fruitful for the investment side of it, were the discussions below each of your updated snapshots. Several people see more than one, and when I had noted some coins popping out of the background, and mentioned them, others commented with their knowledge about them. That really helped.  I have just fiddled a little bit with the youtube annotations function: https://www.youtube.com/watch?v=-jfU_Z9nJYc  But I am not sure if that can be opened wide enough so that visitors can also comment on the timeline. Soundcloud is providing that function, for audio. Comments are located on the timeline.
+
+
+**more ideas:**
+
+...

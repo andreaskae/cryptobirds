@@ -25,16 +25,17 @@ When by Anders Brun provided a **self-service version of his coinmarketcap plots
 https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=602428016530034
   * Strong >200% price bursts 3 days later: https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comment_id=603668313072671
 
-... but there were still only animGifs, which cannot be rewound:
+... but there were still only animGifs (which cannot be rewound):
 * animGif, first ever http://bit.ly/1ABl40a (December 16th)
 * animGif http://bit.ly/1zBwCkJ (December 18th)
 * animGif http://bit.ly/13Q8eS3 (December 21st)
 * animGif http://bit.ly/1BeyOy6  (December 27th)
 
 **... I decided to create my own Python code here in this [github repository] (https://github.com/andreaskae/cryptobirds)**
+  * to use his self-service plots at http://bit.ly/1BfZmze , and build on top: 
   * [downloadRepeater.py] (cryptobirds/downloadRepeater.py)
   * [png2movie.py] (cryptobirds/png2movie.py)
-  * to use the self-service plots at http://bit.ly/1BfZmze 
+  
 
 ... and uploaded a resulting video to youtube:
 * mp4 https://www.youtube.com/watch?v=-jfU_Z9nJYc (January 2nd)
@@ -46,7 +47,7 @@ https://www.facebook.com/groups/459085124197658/permalink/601164619989707/?comme
 **By now, Anders is creating videos on the fly, every 1 hour:**
 * scroll down here: http://bit.ly/1BfZmze  
 
-Only some of my many suggestions for the future:
+Only some of my many suggestions:
 * [ideas-for-the-future.md](ideas-for-the-future.md)
 
 *Please comment below the videos* whatever your wetware pattern recognition system identifies as some interesting signal; a coin behaving strangely, the volume (up-down) suddenly rising, strong left-right movements (usually due to price changes), color changes, suddenly appearing and disappearing coins, newcomers, etc. - Then we can look into the time series, and the fundamentals of that coin. **And perhaps make some money :-)** . 
